@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Purple Queen';
+    src: url('../font/PurpleQueenRegular.woff2') format('woff2'),
+        url('../font/PurpleQueenRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Purple Queen',cursive;
+}
